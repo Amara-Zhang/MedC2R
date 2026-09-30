@@ -1,0 +1,25 @@
+                                    precision    recall  f1-score   support
+
+                  Medical material    0.00000   0.00000   0.00000         7
+       Arterial wall calcification    0.00000   0.00000   0.00000        12
+                      Cardiomegaly    0.00000   0.00000   0.00000        13
+              Pericardial effusion    0.00000   0.00000   0.00000        10
+Coronary artery wall calcification    0.00000   0.00000   0.00000        13
+                     Hiatal hernia    0.00000   0.00000   0.00000         0
+                   Lymphadenopathy    0.00000   0.00000   0.00000        38
+                         Emphysema    0.00000   0.00000   0.00000         6
+                       Atelectasis    0.00000   0.00000   0.00000         0
+                       Lung nodule    0.58678   0.68599   0.63252       207
+                      Lung opacity    0.11765   0.02353   0.03922        85
+        Pulmonary fibrotic sequela    0.00000   0.00000   0.00000         5
+                  Pleural effusion    0.00000   0.00000   0.00000        31
+        Mosaic attenuation pattern    0.00000   0.00000   0.00000         2
+          Peribronchial thickening    0.00000   0.00000   0.00000         1
+                     Consolidation    0.00000   0.00000   0.00000        14
+                    Bronchiectasis    0.00000   0.00000   0.00000        15
+    Interlobular septal thickening    0.00000   0.00000   0.00000         3
+
+                         micro avg    0.54962   0.31169   0.39779       462
+                         macro avg    0.03913   0.03942   0.03732       462
+                      weighted avg    0.28455   0.31169   0.29062       462
+                       samples avg    0.39889   0.29755   0.32733       462
